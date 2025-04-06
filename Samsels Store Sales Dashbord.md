@@ -168,4 +168,13 @@ Revenue YoY % = DIVIDE(SUM('Samsels Store'[Revenue]) - [Revenue PY],[Revenue PY]
 ### Link to Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiYTE4ZTA5Y2MtNzkxMC00OGViLWI2MmMtNWI1MWZkNGMyZWViIiwidCI6ImVkMTlkYTUwLTc2MTktNGIxNy1iNGNhLTVjMTlhYTk0NWRjMCJ9 
 
+### Key Findings
+1. Exceeded Revenue Targets Significantly
+The store achieved $765.95K in revenue for 2023, surpassing the annual target of $150K by 410.64%, and December’s monthly revenue also exceeded its target by 52.72% — highlighting strong performance at both yearly and monthly levels.
+2. Strong Year-over-Year Growth in October
+October 2023 recorded the highest YoY revenue growth of 509.4%, indicating a standout month, likely due to a promotional campaign, seasonal surge, or operational efficiency.
+3. Furniture Category Drives Revenue and Quantity
+The Quantity Sold by Revenue bubble chart shows Furniture (blue bubbles) consistently contributing high sales volumes and revenue, making it the top-performing category compared to Office Supplies and Technology.
+
+### Recommendations
 
