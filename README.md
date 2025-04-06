@@ -5,7 +5,7 @@
 - 📫 You can reach me via email at ebensam995@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/ebenezer-sam-a34992159/
 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love choral music
+- ⚡ Fun fact: I love classical and choral music
 
 <!---
 sameben23/sameben23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
