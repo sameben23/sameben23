@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sameben23
+- 👋 Hi, I’m Ebenezer Sam
 - 👀 I’m interested in data analytics and using data to make the world a better place
-- 💚 I use both PowerBI and Tableau in my visualizations
+- 💚 I use both Power BI and Tableau in my visualizations
 - 💞️ I’m looking to collaborate on advanced data analytics, open source contributions and AI-driven data analytics
 - 📫 You can reach me via email at ebensam995@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/ebenezer-sam-a34992159/
 
