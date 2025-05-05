@@ -177,4 +177,13 @@ October 2023 recorded the highest YoY revenue growth of 509.4%, indicating a sta
 Furniture (blue bubbles) consistently contributes high sales volumes and revenue, making it the top-performing category compared to Office Supplies and Technology.
 
 ### Recommendations
-
+1. Revise Sales Targets for Next Year:
+Since we outperformed the 2023 target by over 400%, it's time to raise the bar. Use this year's numbers to revise monthly and annual goals that reflect our current capacity and momentum.
+2. Repeat What Worked in October Across Other Months:
+Look into what drove the October spike—whether it was a discount, campaign, or specific product push—and apply the same strategies in quieter months to boost overall sales.
+3. Double Down on Furniture – Our Best Seller:
+Furniture is clearly our strongest performer. Let’s promote it more, expand the range, and ensure we keep bestsellers in stock. Consider bundle deals or loyalty perks to drive repeat purchases.
+4. Give Office Supplies and Tech a Boost:
+These categories are lagging behind. Let’s review the pricing, visibility on the website or store, and promotions. A targeted campaign or discount could help lift sales in these areas.
+5. Plan Ahead for a Bigger December:
+December was a strong month. We should start planning earlier for the holiday rush—stock up on popular items, run early-bird offers, and align marketing to make the most of the season.
